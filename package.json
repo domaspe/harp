@@ -56,7 +56,7 @@
     "parseurl": "^1.3.2",
     "pause": "0.1.0",
     "send": "^0.17.1",
-    "terraform": "^1.10.0",
+    "terraform": "git+https://github.com/domaspe/terraform.git#27ad9daff6b420368ee3aa7da36a694fea8b22d5",
     "watchify": "^3.11.1"
   },
   "devDependencies": {
